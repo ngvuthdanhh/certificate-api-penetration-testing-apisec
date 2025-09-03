@@ -1,12 +1,11 @@
 # 01 – Introduction to API Security
 
-APIs là thành phần quan trọng trong hầu hết ứng dụng hiện đại.  
-Bảo mật API kém có thể dẫn đến:  
-- Rò rỉ dữ liệu nhạy cảm  
-- Tấn công chuỗi cung ứng (supply chain attacks)  
-- Khai thác lỗ hổng web ở tầng ứng dụng  
+APIs power modern applications, but poor API security can lead to:  
+- Data leaks and privacy violations  
+- Supply chain compromise  
+- Exploitable flaws in web apps  
 
-**Mục tiêu học tập**:  
-- Hiểu API và vai trò trong kiến trúc ứng dụng  
-- Nhận diện rủi ro bảo mật API  
-- Giới thiệu OWASP API Top 10  
+**Learning objectives**:  
+- Understand APIs and their role in modern architectures  
+- Identify common API risks  
+- Get introduced to OWASP API Top 10  
