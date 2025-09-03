@@ -1,6 +1,6 @@
 # 02 – OWASP API Top 10 Overview
 
-OWASP công bố **API Security Top 10** gồm:  
+OWASP API Security Top 10 (latest):  
 1. Broken Object Level Authorization (BOLA)  
 2. Broken Authentication  
 3. Excessive Data Exposure  
@@ -12,3 +12,4 @@ OWASP công bố **API Security Top 10** gồm:
 9. Improper Assets Management  
 10. Insufficient Logging & Monitoring  
 
+👉 Core framework for API pentesting.  
